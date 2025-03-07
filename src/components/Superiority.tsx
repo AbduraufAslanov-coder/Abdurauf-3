@@ -25,7 +25,7 @@ const Superiority = () => {
 
             <Box  display='flex' >
 
-          <Image src='./src/assets/imgs/google.svg' pt='10px' pl='10px' alt="" ></Image>
+          <Image src='./src/assets/imgs/google.svg' mt='10px' w='48px' h='48px'  pt='10px' pl='10px' alt="" ></Image>
         <Box>
 
          <Text   mt='10px' ml='10px' color="gray" fontSize='20px' >Stock trading</Text>
@@ -37,7 +37,7 @@ const Superiority = () => {
 
             <Box  display='flex' >
 
-<Image src='./src/assets/imgs/foursquare.svg' pt='10px' pl='10px' alt="" ></Image>
+<Image src='./src/assets/imgs/foursquare.svg' mt='10px'  w='48px' h='48px'  pt='10px' pl='10px' alt="" ></Image>
 <Box>
 
 <Text   mt='10px' ml='10px' color="gray" fontSize='20px' >Stock trading</Text>
@@ -50,7 +50,7 @@ const Superiority = () => {
 
   <Box  display='flex' >
 
-<Image src='./src/assets/imgs/kickstarter.svg' pt='10px' pl='10px' alt="" ></Image>
+<Image src='./src/assets/imgs/kickstarter.svg' mt='10px'  w='48px' h='48px'  pt='10px' pl='10px' alt="" ></Image>
 <Box>
 
 <Text   mt='10px' ml='10px' color="gray" fontSize='20px' >Stock trading</Text>
